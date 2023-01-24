@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://urvi:urvi@cluster0.7f3k3dv.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "0ecacd965fcb3fa6d019",
+    "githubSecret": "2eedac8e477c673682e96e2b0f5a80017ab654ab"
+}
